@@ -3950,7 +3950,7 @@
         {
          "columns":16,
          "firstgid":2105,
-         "image":"..\/..\/Downloads\/t9H0DSr.png",
+         "image":"Images\/t9H0DSr.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4018,7 +4018,7 @@
         {
          "columns":16,
          "firstgid":2361,
-         "image":"..\/..\/Downloads\/bicycle.png",
+         "image":"Images\/bicycle.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4039,7 +4039,7 @@
         {
          "columns":16,
          "firstgid":2945,
-         "image":"..\/..\/Downloads\/floor2.png",
+         "image":"Images\/floor2.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -4052,7 +4052,7 @@
         {
          "columns":8,
          "firstgid":3185,
-         "image":"..\/..\/Downloads\/indoorfloors2_750.png",
+         "image":"Images\/indoorfloors2_750.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -4065,7 +4065,7 @@
         {
          "columns":24,
          "firstgid":3313,
-         "image":"..\/..\/Downloads\/deco.png",
+         "image":"Images\/deco.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,

@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":12,
@@ -3635,7 +3636,7 @@
         {
          "columns":16,
          "firstgid":2105,
-         "image":"..\/..\/Downloads\/t9H0DSr.png",
+         "image":"Images\/t9H0DSr.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3648,7 +3649,7 @@
         {
          "columns":16,
          "firstgid":2361,
-         "image":"..\/..\/Downloads\/bicycle.png",
+         "image":"Images\/bicycle.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3661,7 +3662,7 @@
         {
          "columns":8,
          "firstgid":2617,
-         "image":"..\/..\/Downloads\/indoorfloors2_750.png",
+         "image":"Images\/indoorfloors2_750.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
