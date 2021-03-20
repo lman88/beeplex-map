@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapev5.json"
+                 "value":"mapev6.json"
                 }],
          "type":"tilelayer",
          "visible":true,
