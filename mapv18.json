@@ -336,7 +336,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lman88.github.io\/beeplex-map\/Images\/open.jpg"
+                 "value":"https:\/\/lman88.github.io\/beeplex-map\/Images\/open2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -354,7 +354,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lman88.github.io\/beeplex-map\/Images\/open2.jpg"
+                 "value":"https:\/\/lman88.github.io\/beeplex-map\/Images\/open.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
