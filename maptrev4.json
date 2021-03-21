@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mapv18.json"
+                 "value":"mapv19.json"
                 }],
          "type":"tilelayer",
          "visible":true,
