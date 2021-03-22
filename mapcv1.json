@@ -58,6 +58,17 @@
         }, 
         {
          "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":31,
          "name":"texte",
          "objects":[
@@ -78,17 +89,6 @@
                  "x":150,
                  "y":455.58
                 }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
